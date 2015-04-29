@@ -1,0 +1,28 @@
+{
+  "name": "react-experiment",
+  "version": "1.0.0",
+  "description": "React is a JavaScript library for building user interfaces.",
+  "main": "helloworld.html",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "react": "^0.13.2"
+  },
+  "devDependencies": {
+    "react-tools": "^0.13.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silhouettes/react-experiment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silhouettes/react-experiment/issues"
+  },
+  "homepage": "https://github.com/silhouettes/react-experiment"
+}

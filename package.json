@@ -1,17 +1,8 @@
 {
   "name": "react-experiment",
   "version": "1.0.0",
-  "description": "React is a JavaScript library for building user interfaces.",
-  "main": "helloworld.html",
-  "directories": {
-    "example": "examples"
-  },
-  "dependencies": {
-    "react": "^0.13.2"
-  },
-  "devDependencies": {
-    "react-tools": "^0.13.2"
-  },
+  "description": "An experiment with react, npm and gulp",
+  "main": "src/app.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -24,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/silhouettes/react-experiment/issues"
   },
-  "homepage": "https://github.com/silhouettes/react-experiment"
+  "homepage": "https://github.com/silhouettes/react-experiment",
+  "devDependencies": {
+    "browserify": "^10.1.0",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "react": "^0.13.2",
+    "reactify": "^1.1.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.2.1"
+  }
 }

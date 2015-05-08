@@ -1,0 +1,9 @@
+Talk about:
+- Modules
+- Live reload
+- Source maps & debugging
+- Profiling
+- Syntax highlighting/intellisense/editors (ts project?)
+- ES6
+- Test frameworks
+- SASS
